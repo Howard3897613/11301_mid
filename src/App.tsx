@@ -54,15 +54,16 @@ function App() {
             <section className="posts">
                 <article>
                     <header>
-                        <span className="date">09/18 2024</span>
-                        <h2><a href="#">Hello.html<br />
-                        作業1</a></h2>
+                        <span className="date">第三人稱射擊</span>
+                        <a href="#" className="image left"><img src="images/warframe.webp" alt="" /></a><br />
+                        <h2><a href="#">Warframe<br />
+                        戰甲神兵</a></h2>
                     </header>
-                    <a href="#" className="image fit"><img src="images/pic02.png" alt="" /></a>
-                    <p>作業內容：</p>
-                    <p>請上傳 github 連結如: 113-1-TKU-Web/hello.html at main · tku-peiyucheng/113-1-TKU-Web · GitHub</p>
+                    <a href="#" className="image fit"><img src="images/warframelarge.jpg" alt="" /></a>
+                    <p>遊戲標籤：</p>
+                    <p>#免費遊玩 #動作角色扮演 #刷寶射擊 #第三人稱射擊</p>
                     <ul className="actions special">
-                        <li><a href="https://github.com/Howard3897613/113-1-TKU-WEB/blob/main/hello.html" className="button">作業連結點我</a></li>
+                        <li><a href="https://www.warframe.com/zh-hant" className="button">點我前往官網</a></li>
                     </ul>
                 </article>
                 <article>
