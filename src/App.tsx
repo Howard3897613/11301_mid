@@ -59,7 +59,7 @@ function App() {
                         <h2><a href="#">Warframe<br />
                         戰甲神兵</a></h2>
                     </header>
-                    <a href="#" className="image fit"><img src="images/warframelarge.jpg" alt="" /></a>
+                    <a href="#" className="image fit"><img src="images/warframe-metacard.png" alt="" /></a>
                     <p>遊戲標籤：</p>
                     <p>#免費遊玩 #動作角色扮演 #刷寶射擊 #第三人稱射擊</p>
                     <ul className="actions special">
