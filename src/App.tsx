@@ -41,10 +41,9 @@ function App() {
 
             <article className="post featured">
                 <header className="major">
-                    <span className="date">10/12 2024</span>
-                    <h2><a href="#">頭號信息<br />
-                    通知</a></h2>
-                    <p>我家這幾萬塊買的破電腦怎麼一直掛掉，害我修了老半天。</p>
+                    <span className="date">11月 2024</span>
+                    <h2><a href="#">想不到這裡要寫甚麼</a></h2>
+                    <p>很好玩！改我改我</p>
                 </header>
                 <a href="#" className="image main"><img src="images/pic01.png" alt="" /></a>
                 <ul className="actions special">
