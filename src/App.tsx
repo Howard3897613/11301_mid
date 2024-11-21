@@ -11,21 +11,21 @@ function App() {
     <div id="wrapper" className="fade-in">
 
     <div id="intro">
-        <h1>411630519 <br />
-        Github Page 作業</h1>
-        <p>一個神奇的網站 designed by 陳庭浩 for 網路程式設計課程<br /></p>
+        <p>113-1 網路程式設計 期中專題<br /></p>
+        <h1>遊戲清單</h1>
+        <p>林峰彬、陳庭浩、廖則宇 共同製作<br /></p>
         <ul className="actions">
             <li><a href="#header" className="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
         </ul>
     </div>
 
     <header id="header">
-        <a href="index.html" className="logo">課程清單</a>
+        <a href="index.html" className="logo">遊戲清單</a>
     </header>
 
     <nav id="nav">
         <ul className="links">
-            <li className="active"><a href="index.html">作業</a></li>
+            <li className="active"><a href="index.html">遊戲列表</a></li>
             <li><a href="https://www.youtube.com/">點我開啟YT</a></li>
             <li><a href="https://www.twitch.tv/">點我開啟圖奇</a></li>
         </ul>
