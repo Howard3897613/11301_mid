@@ -66,66 +66,19 @@ function App() {
                         <li><a href="https://www.warframe.com/zh-hant" className="button">點我前往官網</a></li>
                     </ul>
                 </article>
+                
                 <article>
                     <header>
-                        <span className="date">09/19 2024</span>
-                        <h2><a href="#">about.html<br />
-                        作業2</a></h2>
+                        <span className="date">MOBA+吃雞</span>
+                        <a href="#" className="image left"><img src="images/Eternal.webp" alt="" /></a><br />
+                        <h2><a href="#">Eternal Return<br />
+                        永恆輪迴</a></h2>
                     </header>
-                    <a href="#" className="image fit"><img src="images/pic03.png" alt="" /></a>
-                    <p>作業內容：</p>
-                    <p>運用 <a href="https://hackmd.io/@peiyucheng/rJtFyi62C" className="label">https://hackmd.io/@peiyucheng/rJtFyi62C</a> 內的14個標籤寫出介紹自己的頁面</p>
+                    <a href="#" className="image fit"><img src="images/Season3Et.webp" alt="" /></a>
+                    <p>遊戲標籤：</p>
+                    <p>#免費遊玩 #日本動畫 #多人線上戰術競技 #多人</p>
                     <ul className="actions special">
-                        <li><a href="https://github.com/Howard3897613/113-1-TKU-WEB/blob/main/about.html" className="button">作業連結點我</a></li>
-                    </ul>
-                </article>
-                <article>
-                    <header>
-                        <span className="date">09/26 2024</span>
-                        <h2><a href="#">style.css<br />
-                        作業4</a></h2>
-                    </header>
-                    <a href="#" className="image fit"><img src="images/pic04.png" alt="" /></a>
-                    <p>作業內容：</p>
-                    <p>傳 github repo 連結</p>
-                    <ul className="actions special">
-                        <li><a href="https://github.com/Howard3897613/113-1-TKU-WEB" className="button">作業連結點我</a></li>
-                    </ul>
-                </article>
-                <article>
-                    <header>
-                        <span className="date">April 14, 2017</span>
-                        <h2><a href="#">Tempus sed<br />
-                        nulla imperdiet</a></h2>
-                    </header>
-                    <a href="#" className="image fit"><img src="images/pic05.jpg" alt="" /></a>
-                    <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                    <ul className="actions special">
-                        <li><a href="#" className="button">Full Story</a></li>
-                    </ul>
-                </article>
-                <article>
-                    <header>
-                        <span className="date">April 11, 2017</span>
-                        <h2><a href="#">Odio magna<br />
-                        sed consectetur</a></h2>
-                    </header>
-                    <a href="#" className="image fit"><img src="images/pic06.jpg" alt="" /></a>
-                    <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                    <ul className="actions special">
-                        <li><a href="#" className="button">Full Story</a></li>
-                    </ul>
-                </article>
-                <article>
-                    <header>
-                        <span className="date">April 7, 2017</span>
-                        <h2><a href="#">Augue lorem<br />
-                        primis vestibulum</a></h2>
-                    </header>
-                    <a href="#" className="image fit"><img src="images/pic07.jpg" alt="" /></a>
-                    <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                    <ul className="actions special">
-                        <li><a href="#" className="button">Full Story</a></li>
+                        <li><a href="https://playeternalreturn.com/main?hl=zh-TW" className="button">點我前往官網</a></li>
                     </ul>
                 </article>
             </section>
@@ -169,25 +122,26 @@ function App() {
         </section>
         <section className="split contact">
             <section className="alt">
-                <h3>Address</h3>
-                <p>略略略<br />
-                不告訴你</p>
+                <h3>學期</h3>
+                <p>113學年度<br/> 
+                第一學期</p>
             </section>
             <section>
-                <h3>Phone</h3>
-                <p><a href="#">0958479859</a></p>
+                <h3>組員姓名</h3>
+                <p><a href="#">411630279 林峰彬</a><br/>
+                <a href="#">411630519 陳庭浩</a><br/>
+                <a href="#">411630543 廖則宇</a></p>
             </section>
             <section>
                 <h3>Email</h3>
-                <p><a href="#">411630519@o365.tku.edu.tw</a></p>
+                <p><a href="#">411630279@o365.tku.edu.tw</a><br/>
+                <a href="#">411630519@o365.tku.edu.tw</a><br/>
+                <a href="#">411630543@o365.tku.edu.tw</a></p>
             </section>
             <section>
-                <h3>Social</h3>
+                <h3>專案連結</h3>
                 <ul className="icons alt">
-                    <li><a href="#" className="icon brands alt fa-twitter"><span className="label">Twitter</span></a></li>
-                    <li><a href="#" className="icon brands alt fa-facebook-f"><span className="label">Facebook</span></a></li>
-                    <li><a href="#" className="icon brands alt fa-instagram"><span className="label">Instagram</span></a></li>
-                    <li><a href="#" className="icon brands alt fa-github"><span className="label">GitHub</span></a></li>
+                    <li><a href="https://github.com/Howard3897613/11301_mid" className="icon brands alt fa-github"><span className="label">GitHub</span></a></li>
                 </ul>
             </section>
         </section>
