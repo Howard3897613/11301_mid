@@ -137,6 +137,34 @@ function App() {
                         <li><a href="https://www.monsterhunter.com/rise/hk/" className="button">點我前往官網</a></li>
                     </ul>
                 </article>
+              <article>
+                    <header>
+                        <span className="date">生存恐怖遊戲</span>
+                        <a href="#" className="image left"><img src="images/lethal-logo.jpg" alt="" /></a><br />
+                        <h2><a href="#">lethal company<br />
+                        </a></h2>
+                    </header>
+                    <a href="#" className="image fit"><img src="images/lethal company.jpg" alt="" /></a>
+                    <p>遊戲標籤：</p>
+                    <p>#付費遊玩 #付費遊玩 #線上合作 #第一視角 #生存 #恐怖 #多人</p>
+                    <ul className="actions special">
+                        <li><a href="https://store.steampowered.com/app/1966720/Lethal_Company/" className="button">點我前往官網</a></li>
+                    </ul>
+                </article>
+                <article>
+                    <header>
+                        <span className="date">格鬥遊戲</span>
+                        <a href="#" className="image left"><img src="images/streetlogo.png" alt="" /></a><br />
+                        <h2><a href="#">Street fighter 6<br />
+                        快打旋風6</a></h2>
+                    </header>
+                    <a href="#" className="image fit"><img src="images/street fighter.jpg" alt="" /></a>
+                    <p>遊戲標籤：</p>
+                    <p>#付費遊玩 #付費遊玩 #動作 #多人 #2D格鬥</p>
+                    <ul className="actions special">
+                        <li><a href="https://www.streetfighter.com/6/zh-hant" className="button">點我前往官網</a></li>
+                    </ul>
+                </article>
             </section>
 
             <footer>
