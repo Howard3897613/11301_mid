@@ -1,50 +1,35 @@
-# React + TypeScript + Vite
+遊戲清單網頁應用程式
+這是一個基於 React 的遊戲清單網頁應用程式，用於展示和管理遊戲清單。使用者可以瀏覽遊戲資訊。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+🚀 功能特色
+🕹️ 遊戲清單
+展示遊戲清單，包含以下資訊：
+遊戲名稱
+遊戲類型
+遊戲標籤
+遊戲網頁
+每個遊戲以article形式呈現，簡潔直觀。
+🛠️ 使用技術
+React：負責構建元件化的使用者介面。
+CSS/SCSS：用於網頁樣式及響應式設計。
+📂 專案結構
+plaintext
+複製程式碼
+game-list-app/
+├── public/
+│   ├── assets/          # HTML5 的樣式css
+│   └── images/           # 圖片庫
+├── src/                  #主程式
+│   ├── App.js              # 主應用程式元件
+│   ├── App.css             # 全域樣式
+|   ├── main.tsx
+│   └── index.js            # React 進入點
+└── package.json             # 專案依賴與指令
+⚙️ 安裝與使用
+克隆專案
+git clone https://github.com/Howard3897613/11301_mid.git
+👨‍💻 作者
+由 [林峰彬、陳庭浩、廖則宇] 開發。
+📧 聯絡方式：411630279@o365.tku.edu.tw
+            /411630519@o365.tku.edu.tw
+            /411630543@o365.tku.edu.tw
