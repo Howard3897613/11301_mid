@@ -81,6 +81,62 @@ function App() {
                         <li><a href="https://playeternalreturn.com/main?hl=zh-TW" className="button">點我前往官網</a></li>
                     </ul>
                 </article>
+              <article>
+                    <header>
+                        <span className="date">音樂節奏遊戲</span>
+                        <a href="#" className="image left"><img src="images/logo.png" alt="" /></a><br />
+                        <h2><a href="#">mush dash<br />
+                        喵斯快跑</a></h2>
+                    </header>
+                    <a href="#" className="image fit"><img src="images/musedash.jpg" alt="" /></a>
+                    <p>遊戲標籤：</p>
+                    <p>#付費遊玩 #音樂節奏遊戲 #單人</p>
+                    <ul className="actions special">
+                        <li><a href="https://musedash.peropero.net/#/version" className="button">點我前往官網</a></li>
+                    </ul>
+                </article>
+                <article>
+                    <header>
+                        <span className="date">戰術競技遊戲</span>
+                        <a href="#" className="image left"><img src="images/apexlogo.png" alt="" /></a><br />
+                        <h2><a href="#">Apex legends<br />
+                        Apex英雄</a></h2>
+                    </header>
+                    <a href="#" className="image fit"><img src="images/apex legends.jpg" alt="" /></a>
+                    <p>遊戲標籤：</p>
+                    <p>#免費遊玩 #射擊 #多人 #第一人稱 #大逃殺</p>
+                    <ul className="actions special">
+                        <li><a href="https://www.ea.com/zh-tw/games/apex-legends/about" className="button">點我前往官網</a></li>
+                    </ul>
+                </article>
+                <article>
+                    <header>
+                        <span className="date">沙盒遊戲</span>
+                        <a href="#" className="image left"><img src="images/terrarialogo.png" alt="" /></a><br />
+                        <h2><a href="#">Terraria<br />
+                        泰拉瑞雅</a></h2>
+                    </header>
+                    <a href="#" className="image fit"><img src="images/terraria.jpg" alt="" /></a>
+                    <p>遊戲標籤：</p>
+                    <p>#付費遊玩 #2d沙盒 #生存 #多人 #冒險</p>
+                    <ul className="actions special">
+                        <li><a href="https://www.terraria.org/" className="button">點我前往官網</a></li>
+                    </ul>
+                </article>
+                <article>
+                    <header>
+                        <span className="date">動作角色扮演遊戲</span>
+                        <a href="#" className="image left"><img src="images/monsterlogo.jpg" alt="" /></a><br />
+                        <h2><a href="#">Monster hunter rise<br />
+                        魔物獵人崛起</a></h2>
+                    </header>
+                    <a href="#" className="image fit"><img src="images/monster hunter rise.png" alt="" /></a>
+                    <p>遊戲標籤：</p>
+                    <p>#付費遊玩 #動作 #角色扮演 #線上合作 #多人</p>
+                    <ul className="actions special">
+                        <li><a href="https://www.monsterhunter.com/rise/hk/" className="button">點我前往官網</a></li>
+                    </ul>
+                </article>
             </section>
 
             <footer>
