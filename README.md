@@ -39,9 +39,7 @@ CSS/SCSS：用於網頁樣式及響應式設計。
 
 │   ├── App.css             # 全域樣式
 
-|   ├── main.tsx
-
-│   └── index.js            # React 進入點
+|   └── main.tsx
 
 └── package.json             # 專案依賴與指令
 
@@ -60,4 +58,4 @@ git clone https://github.com/Howard3897613/11301_mid.git
             /411630519@o365.tku.edu.tw
 
             /411630543@o365.tku.edu.tw
-            
+
