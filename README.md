@@ -41,9 +41,10 @@
 
 ## ⚙️ 安裝與使用
 
-克隆專案
+```克隆專案
 
 /git clone https://github.com/Howard3897613/11301_mid.git
+```
 
 ---
 
