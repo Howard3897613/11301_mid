@@ -42,10 +42,10 @@ function App() {
             <article className="post featured">
                 <header className="major">
                     <span className="date">11月 2024</span>
-                    <h2><a href="#">想不到這裡要寫甚麼</a></h2>
-                    <p>很好玩！改我改我</p>
+                    <h2><a href="#">熱門遊戲推薦</a></h2>
+                    <p>(Steam平台優先)</p>
                 </header>
-                <a href="#" className="image main"><img src="images/pic01.png" alt="" /></a>
+                <a href="#" className="image main"><img src="images/titile.jpg" alt="" /></a>
                 <ul className="actions special">
                     <li><a href="#" className="button large">Full Story</a></li>
                 </ul>
